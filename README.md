@@ -1,4 +1,4 @@
-# MetaHeuristics  ---- Project work by CHARAN NALAKALASALA and POONKUZHALI PAJANISSAMY-----
+# MetaHeuristics 
 
 import modules are used in our program to emulate and run any scripts.
 
